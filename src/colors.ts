@@ -11,7 +11,7 @@ const typeColors = {
   electric: "#fad143",
   psychic: "#f97175",
   ice: "#72cfbd",
-  dragon: "#eae472",
+  dragon: "#f9f59d",
   dark: "#5b5464",
   fairy: "#eb92e4",
   normal: "#929da3",
